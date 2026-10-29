@@ -1,0 +1,11 @@
+DEEP LEARNING QUICK REFERENCE
+1. ANN: input -> hidden layers -> output.
+2. Perceptron: simple binary classifier; single perceptron cannot solve XOR.
+3. ReLU: max(0,x); sigmoid: 0..1; tanh: -1..1; softmax: class probabilities.
+4. CNN: Conv2D -> Pooling -> Flatten -> Dense -> output.
+5. Padding='same' preserves spatial dimensions where possible.
+6. BatchNormalization stabilizes activations; Dropout randomly disables units during training.
+7. Epoch = one pass over training data; batch_size = samples per update batch.
+8. Normalize images to 0..1 by dividing pixel values by 255.
+9. Data augmentation: rotation, zoom, shifting, flipping.
+10. Overfitting = strong training performance but weaker unseen-data performance.
