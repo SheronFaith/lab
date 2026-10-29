@@ -1,9 +1,0 @@
-DATA SCIENCE QUICK REFERENCE
-1. head() = first rows; tail() = last rows; shape = dimensions; describe() = summary.
-2. mean, median, mode = central tendency.
-3. var, std, skew, kurtosis = spread and distribution shape.
-4. Linear regression predicts continuous values.
-5. Logistic regression predicts classes/probabilities.
-6. NumPy handles numerical arrays; Pandas handles tabular data.
-7. Histogram = frequency distribution; scatter = relationship; heatmap = correlation.
-8. For an examiner-provided CSV, update filename and column names.
